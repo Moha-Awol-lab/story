@@ -1,0 +1,17 @@
+.App {
+    font-family: cursive;
+    text-align: center;
+  }
+  .head {
+    font-family: cursive;
+    color: aqua;
+  }
+  body {
+    font-size: larger;
+  }
+  .custom {
+    color: red,
+    fontSize: 20px,
+    border: 1px solid black,
+  };
+  
